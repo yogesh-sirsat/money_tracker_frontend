@@ -1,4 +1,4 @@
-import {Container, Navbar, NavItem, NavLink} from "react-bootstrap";
+import {Container, Navbar} from "react-bootstrap";
 import "./NavBar.css";
 import { useNavigate } from "react-router-dom";
 
